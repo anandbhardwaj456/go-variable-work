@@ -287,14 +287,17 @@ var NakshatraData = map[string]map[string]interface{}{
 				"Pada":            4,
 				"Degree":          "0° 00' - 3° 20' Cancer",
 				"RulingPlanet":    "Jupiter",
-				"Characteristics": "Individuals born in this pada are intuitive, emotional, and have a strong sense of spirituality.",
+				"Characteristics": "People in this phase are focused on material success, possessing strong financial acumen and determination to achieve financial stability.",
 			},
 		},
 		"General Characteristics": []map[string]string{
 			{"Characteristic": "Optimistic and Philosophical", "Description": "Punarvasu natives are known for their optimism and philosophical nature."},
 			{"Characteristic": "Communicative and Intelligent", "Description": "They are communicative, intelligent, and possess a strong sense of ethics."},
 			{"Characteristic": "Nurturing and Caring", "Description": "Punarvasu natives are nurturing, caring, and have a strong connection to family."},
-			{"Characteristic": "Intuitive and Spiritual", "Description": "They are intuitive and emotional, with a strong sense of spirituality."},
+			{"Characteristic": "Emotionally intense and empathetic", "Description": "They feel emotions deeply and understand others' feelings."},
+			{"Characteristic": "Adaptable and Flexible", "Description": "They easily adjust to changing circumstances."}
+			{"Characteristic": "Financially savvy and focused on material success", "Description": "They manage finances well and aim for financial stability."}
+			
 		},
 		"MaleCharacteristics":   "Men born under Punarvasu Nakshatra are optimistic, philosophical, and communicative. They are nurturing and possess a strong sense of ethics.",
 		"FemaleCharacteristics": "Women born under Punarvasu Nakshatra are optimistic, nurturing, and intelligent. They are intuitive and possess a strong sense of spirituality.",
@@ -319,13 +322,13 @@ var NakshatraData = map[string]map[string]interface{}{
 				"Pada":            2,
 				"Degree":          "6° 40' - 10° 00' Cancer",
 				"RulingPlanet":    "Saturn",
-				"Characteristics": "These individuals are disciplined, responsible, and have a strong connection to family.",
+				"Characteristics": "People in this phase are nurturing, compassionate, and generous, with a strong desire to help others.",
 			},
 			3: {
 				"Pada":            3,
 				"Degree":          "10° 00' - 13° 20' Cancer",
 				"RulingPlanet":    "Saturn",
-				"Characteristics": "People in this pada are practical, hardworking, and possess a strong desire for material success.",
+				"Characteristics": "These individuals are practical, grounded, and have a strong sense of responsibility.",
 			},
 			4: {
 				"Pada":            4,
@@ -369,13 +372,13 @@ var NakshatraData = map[string]map[string]interface{}{
 				"Pada":            3,
 				"Degree":          "23° 20' - 26° 40' Cancer",
 				"RulingPlanet":    "Mercury",
-				"Characteristics": "People in this pada are adaptable, resourceful, and possess a love for knowledge.",
+				"Characteristics": "Practical and grounded individuals are resourceful, able to make the most out of any situation.",
 			},
 			4: {
 				"Pada":            4,
 				"Degree":          "26° 40' Cancer - 0° 00' Leo",
 				"RulingPlanet":    "Mercury",
-				"Characteristics": "Individuals born in this pada are secretive, introspective, and have a strong sense of wisdom.",
+				"Characteristics": "People in this phase are emotionally intense and possess a deep sense of empathy. They are nurturing and supportive.",
 			},
 		},
 		"General Characteristics": []map[string]string{
@@ -413,13 +416,13 @@ var NakshatraData = map[string]map[string]interface{}{
 				"Pada":            3,
 				"Degree":          "6° 40' - 10° 00' Leo",
 				"RulingPlanet":    "Ketu",
-				"Characteristics": "People in this pada are generous, kind-hearted, and possess a love for tradition.",
+				"Characteristics": " Individuals are practical and grounded. They possess a strong sense of responsibility and are dedicated to their work.",
 			},
 			4: {
 				"Pada":            4,
 				"Degree":          "10° 00' - 13° 20' Leo",
 				"RulingPlanet":    "Ketu",
-				"Characteristics": "Individuals born in this pada are creative, artistic, and have a strong sense of loyalty.",
+				"Characteristics": " People in this phase are emotionally intense and possess a deep sense of empathy. They are nurturing and supportive.",
 			},
 		},
 		"General Characteristics": []map[string]string{
@@ -439,7 +442,7 @@ var NakshatraData = map[string]map[string]interface{}{
 		},
 	},
 	"PurvaPhalguni": {
-		"Features": "Purva Phalguni Nakshatra represents pleasure, creativity, and enjoyment. It is symbolized by a hammock, indicating relaxation and comfort.",
+		"Features": "People born under Purva Phalguni Nakshatra are known for their charming and charismatic nature. They possess a strong sense of aesthetics and are often very talented in various forms of art. They are also known for their sociable and friendly nature.",
 		"Pada": map[int]map[string]interface{}{
 			1: {
 				"Pada":            1,
@@ -451,17 +454,17 @@ var NakshatraData = map[string]map[string]interface{}{
 				"Pada":            2,
 				"Degree":          "16° 40' - 20° 00' Leo",
 				"RulingPlanet":    "Venus",
-				"Characteristics": "These individuals are creative, artistic, and have a strong sense of aesthetics.",
+				"Characteristics": "People in this phase are sociable and friendly. They enjoy being around people and have a strong desire to make connections.",
 			},
 			3: {
 				"Pada":            3,
 				"Degree":          "20° 00' - 23° 20' Leo",
 				"RulingPlanet":    "Venus",
-				"Characteristics": "People in this pada are passionate, romantic, and possess a love for enjoyment.",
+				"Characteristics": " Individuals are practical and grounded. They possess a strong sense of responsibility and are dedicated to their work.",
 			},
 			4: {
 				"Pada":            4,
-				"Degree":          "23° 20' Leo - 0° 00' Virgo",
+				"Degree":          "23° 20'  - 0° 00' Leo",
 				"RulingPlanet":    "Venus",
 				"Characteristics": "Individuals born in this pada are diplomatic, sociable, and have a strong sense of harmony.",
 			},
