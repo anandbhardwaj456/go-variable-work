@@ -1183,3 +1183,4 @@ var NakshatraData = map[string]map[string]interface{}{
 		},
 	},
 }
+
